@@ -49,7 +49,7 @@ This file contains the class declaration and methods for constructing the list o
 
 - 'LlLDataNode.h': Header file for the LlLDataNode class containing overloaded constructors for assignment in other classes. The Nodes store integer tuples of column_index and data.
 - 'LlLDataNode.cpp': Supporting file for LlLDataNode.h implementing constructors and methods.
-- 'LlLColList.h': Header file for the LlLColList class containing overloaded contructor for assignment in other classes.  The Nodes store integer and class pointers of row number and column_list.
+- 'LlLColList.h': Header file for the LlLColList class containing overloaded constructor for assignment in other classes.  The Nodes store integer and class pointers of row number and column_list.
 - 'LlLColList.cpp': Supporting file for LlLColList.h implementing constructors and methods.
 - 'LlLList.h': Header file for the main LlLList class to build and store list of lists structured matrices.  Also contains method declarations.
 - 'LlLList.cpp': Supporting file for LlLList.h that implements all methods for the list of lists data structure.  These methods will be detail in the LlL.cpp section.
@@ -59,7 +59,7 @@ This file contains the class declaration and methods for constructing the list o
 #### 5. COO.cpp
 
 This file is the a driver function of the coordinate class providing for a space to construct and operate on coordinate lists.
-commands that work in main driver file (COO.cpp):
+Commands that work in main driver file (COO.cpp):
 
 - 'COOList list_name(argv[1], argv[2], argv[3]);'
 
