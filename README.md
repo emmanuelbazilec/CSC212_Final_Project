@@ -164,6 +164,7 @@ Michael Sherlock:
 * Implementation of List of Lists 
 * Researched Sparse Matrices
 * Worked on Presentation
+* Wrote Github README.md
 
 Benjamin Laforge:
 * Implementation of Coordinate Lists
