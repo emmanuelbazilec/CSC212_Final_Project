@@ -168,7 +168,7 @@ Michael Sherlock:
 Benjamin Laforge:
 * Implementation of Coordinate Lists
 * Researched Sparse Matrices
-* Organized Prezentation
+* Organized Presentation
 * Organizer of Group Meeting
 
 
