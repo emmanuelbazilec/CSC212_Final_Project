@@ -2,7 +2,7 @@
 
 <h2 align="center"> Fall 2021 </h2>
 
-<h3 align="center"> Contributers: Michael Sherlock, Ben LaForge </h3>
+<h3 align="center"> Contributers: Michael Sherlock, Ben LaForge, Emmanuel Bazile </h3>
 
 
 ### **Data Structure: Sparse Matrix**
