@@ -2,7 +2,7 @@
 
 <h2 align="center"> Fall 2021 </h2>
 
-<h3 align="center"> Contributers: Michael Sherlock, Ben LaForge </h3>
+<h3 align="center"> Contributers: Michael Sherlock, Ben LaForge, Emmanuel Bazile </h3>
 
 
 ### **Data Structure: Sparse Matrix**
@@ -171,6 +171,11 @@ Benjamin Laforge:
 * Researched Sparse Matrices
 * Organized Presentation
 * Organizer of Group Meeting
+
+Emmanuel Bazile
+* Research Sparse Matrices
+* Work on Presentation
+* Work on Research Paper
 
 
 
